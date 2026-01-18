@@ -55,7 +55,4 @@ public class Prithee {
         return matchInput.equalsIgnoreCase(CleanedSonnetArray[randomDigit]);
     }
 
-    public static void main(String[] args) {
-        pritheeLoop();
-    }
 }
