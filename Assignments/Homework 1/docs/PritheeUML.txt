@@ -7,4 +7,4 @@ Prithee
 ----------
 + promptEnterKey(): void {static}
 + pritheeLoop(): void {static}
-+ pritheeGame(): boolean {static}
++ pritheeGame(int): boolean {static}
